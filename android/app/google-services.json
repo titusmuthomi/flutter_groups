@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591032139844",
+    "project_id": "tito-groups",
+    "storage_bucket": "tito-groups.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591032139844:android:8a6b47dbbed57d9d89fc11",
+        "android_client_info": {
+          "package_name": "com.tito.groups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591032139844-4nfm5iud0q7i8o1tjf72pqje9coqf1m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJhPCDa-NhAUzBEo1ioEVuyv1MOeljEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591032139844-4nfm5iud0q7i8o1tjf72pqje9coqf1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
